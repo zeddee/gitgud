@@ -3,6 +3,12 @@
 Introduction to using Git to run distributed teams that
 allow for resilient work, collaboration, and governance.
 
+## Why distributed teams?
+
+- Resiliency
+- Repository as contract
+- Collaboration without having to meet all team members. Organizational governance can be processually managed.
+
 ## Syllabus
 
 1. What is a decentralized organization, and what do they look like?
