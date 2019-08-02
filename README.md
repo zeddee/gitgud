@@ -8,6 +8,11 @@ allow for resilient work, collaboration, and governance.
 1. What is a decentralized organization, and what do they look like?
 2. Getting started with Github and Git.
 3. Synchronous v.s. Asynchronous work, or Google Docs v.s. Writing on GitHub.
+4. What is a Git workflow.
+5. Using Issues as a discussion board.
+6. Project management on GitHub.
+7. Wikis on GitHub.
+8. Insights for GitHub.
 
 ## Requirements
 
